@@ -28,5 +28,5 @@ Cronjob Syntax
 
 TODO
 
-[ ] Fix the teslams2zabbix_sender.sh script to throttle itself when multiple copies start because its taking too long to download stats from Tesla
-[ ] Determine Speed units in Drive State
+* [ ] Fix the teslams2zabbix_sender.sh script to throttle itself when multiple copies start because its taking too long to download stats from Tesla
+* [ ] Determine Speed units in Drive State
