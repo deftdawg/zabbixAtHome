@@ -1,3 +1,7 @@
+Radio Thermostat (CT50)
+
+http://www.radiothermostat.com/filtrete/
+Sold as 3M Filtrete Wireless Thermostat at major US homedepot stores, the unit looks identical to the CT30.
 
 Crontab Syntax
 
