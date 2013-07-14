@@ -232,7 +232,7 @@
                     <valuemap/>
                 </item>
                 <item>
-                    <name>Car Version</name>
+                    <name>Car Firmware Version</name>
                     <type>2</type>
                     <snmp_community/>
                     <multiplier>0</multiplier>
