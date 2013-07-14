@@ -12,7 +12,7 @@ Features
 Acknowledgements
 
 * Hans Jespersen for writing the TeslaMS utilities
- * I could have something to go against the APIs, but being he wrote his utils before I got my car and his utils are a lot better then anything I would have made for this purpose, it was really easy to grab the data.
+ * I could have written something to go against the APIs, but being he wrote his utils before I got my car and his utils are a lot better then anything I would have made for this purpose, it was really easy to grab the data.
 
 Dependencies
 
