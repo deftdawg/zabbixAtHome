@@ -15,6 +15,12 @@ Dependencies
 Set-up Steps
 1. see ../README.md
 
+Cronjob Syntax
+# Zabbix Tesla Model S Monitoring
+# m h  dom mon dow   command
+ */2 *   *   *   *    ~/teslacmd2zabbix_sender.sh # run every 2 minutes
+ # 59 1   *   *   *    rm /tmp/*$(date -d 'yesterday' +%F)_*.tmp # delete temp files
+
 TODO
 [ ] Fix the teslams2zabbix_sender.sh script to throttle itself when multiple copies start because its taking too long to download stats from Tesla
 [ ] Determine Speed units in Drive State
