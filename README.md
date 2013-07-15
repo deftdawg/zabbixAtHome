@@ -4,7 +4,7 @@ Zabbix templates scripts repository for smart devices in and around my home.
 Devices
 
 * Radio Thermostat of America's CT50 (via Wifi)
-* Tesla Model S (via teslams/ruby and the Tesla APIs)
+* Tesla Model S (via teslams on nodejs and the Tesla APIs)
 
 Set-up Steps
 
